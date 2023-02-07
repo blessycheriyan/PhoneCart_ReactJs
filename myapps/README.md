@@ -14,10 +14,5 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ### `npm run build`
 
-### Deployment firebase 
-
-https://phonecart-99998.web.app/
-
-![image](https://user-images.githubusercontent.com/60100410/217213945-fac150bb-99dc-4bec-b829-c72c14c2ccd3.png)
 
 
